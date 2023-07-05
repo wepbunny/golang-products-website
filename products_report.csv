@@ -1,0 +1,5 @@
+ID, Category ID, Title, Price, Image, Status, Created At, 
+1, 1, first, 20, https://images.tutorialedge.net/authors/profile.jpeg, 1, 2023-07-04 07:30:25, 
+2, 1, second, 10, https://images-eu.ssl-images-amazon.com/images/I/41LMF7AU30L._AC_SX184_.jpg, 1, 2023-07-04 10:01:11, 
+3, 2, third pro, 12, https://images-eu.ssl-images-amazon.com/images/I/41LMF7AU30L._AC_SX184_.jpg, 1, 2023-07-04 10:25:22, 
+4, 1, another product, 23, https://m.media-amazon.com/images/I/61fkduQbA9L._AC_SY119_.jpg, 1, 2023-07-04 13:47:44, 
